@@ -15,11 +15,11 @@
  	user = 'Evgeniy Volochek'
 		current_work = 'Writing code'
 		hobbies = [
-				'Cooking',
-				'Reading Sci-Fi Novels',
-				'Fishing'
-				'Being up all Night chasing that ONE BUG...'
-			]
+			'Cooking',
+			'Reading Sci-Fi Novels',
+			'Fishing'
+			'Being up all Night chasing that ONE BUG...'
+		]
 	
 	def getCity():
 		return Samara_Russia()
