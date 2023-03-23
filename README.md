@@ -9,7 +9,7 @@
 
  ```python
  class WhoAmI:
- 	user = 'Evginiy Volochek'
+ 	user = 'Evgeniy Volochek'
 		current_work = 'Writing code'
 		hobbies = [
 				'Cooking',
