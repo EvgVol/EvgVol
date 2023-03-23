@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/evgvol/evgvol/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<img src="https://github.com/evgvol/evgvol/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
 
