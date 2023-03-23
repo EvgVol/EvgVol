@@ -1,4 +1,7 @@
-
+<div align='right'>
+	
+[![GitHub evgvol](https://img.shields.io/github/followers/evgvol?label=follow&style=social)](https://github.com/evgvol)
+</div>
 <div align="center">
 <img src="https://github.com/evgvol/evgvol/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
@@ -68,3 +71,4 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EvgVol)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/qr/VEJYBKDQG64CB1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/ESVolochek)
 </div>
+
