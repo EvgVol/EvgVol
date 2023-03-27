@@ -12,6 +12,8 @@
 
  ```python
  class WhoAmI:
+  """Some information about me"""
+
  	user = 'Evgeniy Volochek'
 		current_work = 'Writing code'
 		hobbies = [
