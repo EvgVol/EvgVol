@@ -1,14 +1,4 @@
-<div align='right'>
-	
-[![GitHub evgvol](https://img.shields.io/github/followers/evgvol?label=follow&style=social)](https://github.com/evgvol)
-</div>
-<div align="center">
-<img src="https://github.com/evgvol/evgvol/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
-</div>
-
-
 # <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+To+My+GitHub+Profile+!)](https://git.io/typing-svg)</div>
-
 
  ```python
  class WhoAmI:
