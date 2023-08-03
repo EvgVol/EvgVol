@@ -64,8 +64,3 @@ class WhoAmI:
     <img src="https://avatars.githubusercontent.com/u/60144309?s=280&v=4" alt="yandex-cloud" width="40" height="40"/> 
   </a>
 </p>
-
-## 📊 &nbsp;My stats
-
-![ываываы](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evgvol&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=evgvol&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
-[![EvgVol github stats](https://github-readme-stats.vercel.app/api?username=EvgVol&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/EvgVol)
