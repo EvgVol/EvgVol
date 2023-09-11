@@ -1,5 +1,4 @@
-# <div align="center">[
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+To+My+GitHub+Profile+!)](https://git.io/typing-svg)</div> 
+# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+To+My+GitHub+Profile+!)](https://git.io/typing-svg)</div> 
 
 My name is Evgeniy and am a Python developer.    
 
